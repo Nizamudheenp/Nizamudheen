@@ -21,11 +21,11 @@ Building modern, responsive, and scalable web applications with the MERN stack.
 <br/>
 
 <a href="https://github.com/Nizamudheenp">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nizamudheenp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </a>
 
 <a href="https://github.com/Nizamudheenp?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/Nizamudheenp?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
 </a>
 
 </div>
@@ -34,26 +34,17 @@ Building modern, responsive, and scalable web applications with the MERN stack.
 
 ## 🧑‍💻 About Me
 
-```javascript
-const nzm = {
-    role: "MERN Stack Developer",
-    location: "Kerala, India",
-    technologies: {
-        frontend: ["React", "JavaScript", "Redux Toolkit", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "REST APIs"],
-        database: ["MongoDB", "Mongoose", "MySQL"],
-        tools: ["Git", "GitHub", "Postman"]
-    },
-    currentlyExploring: ["Next.js", "TypeScript", "Web Security"],
-    interests: [
-        "Full-Stack Development",
-        "Real-Time Applications",
-        "Clean UI/UX",
-        "Learning New Technologies"
-    ],
-    motto: "Learn. Build. Improve. Repeat."
-};
-```
+I'm a MERN Stack Developer passionate about building modern, responsive, and user-friendly web applications.
+
+* 💻 Experienced in developing full-stack applications using MongoDB, Express.js, React, and Node.js.
+* ⚛️ Interested in creating interactive user interfaces and efficient backend solutions.
+* 🚀 Currently exploring Next.js, TypeScript, and modern web development practices.
+* 🔧 Enjoy working with REST APIs, authentication, database management, and real-time applications.
+* 🌱 Continuously learning and improving my skills through hands-on projects.
+* 🤝 Open to collaboration, learning opportunities, and exciting development projects.
+
+**My goal:** To become a skilled full-stack developer by continuously learning, building, and improving.
+
 
 * 💻 I'm a developer passionate about building full-stack web applications.
 * 🚀 I enjoy turning ideas into functional, user-friendly digital experiences.
@@ -144,17 +135,17 @@ An AI-powered web application that allows users to explore and analyze their dre
 <div align="center">
 
 <a href="https://github.com/Nizamudheenp">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nizamudheenp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 </a>
 
 <a href="https://github.com/Nizamudheenp">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizamudheenp&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Nizamudheenp">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Nizamudheenp&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
 </div>
