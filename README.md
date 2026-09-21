@@ -135,35 +135,14 @@ An AI-powered web application that allows users to explore and analyze their dre
 <div align="center">
 
 <a href="https://github.com/Nizamudheenp">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nizamudheenp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</a>
-
-<a href="https://github.com/Nizamudheenp">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizamudheenp&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Nizamudheenp">
   <img src="https://streak-stats.demolab.com?user=Nizamudheenp&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
 </div>
 
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<!-- To enable the snake animation, configure the GitHub Actions workflow
-     described below and ensure the generated output branch is available. -->
-
-<img src="https://raw.githubusercontent.com/Nizamudheenp/Nizamudheenp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
 
 ---
+
 
 ## 🎯 Current Focus
 
